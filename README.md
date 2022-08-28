@@ -9,20 +9,20 @@ Opswat coding assessment in python
 
 ## How to use this program:
 
-Download the OPSWAT_Interview_Project directory and input API key in line 7 of the upload_file.py
+1. Download the OPSWAT_Interview_Project directory and input API key in line 7 of the upload_file.py
 For example: API_Key = '543hug897w4hp9gaseara'
 
-Put the file you want to scan with the upload_file.py in the same folder.
+2. Put the file you want to scan with the upload_file.py in the same folder.
 
-Install python 3 and related package: requests, hashlib.
+3. Install python 3 and related package: requests, hashlib.
 
-How to run program:
+## How to run program:
 python upload_file.py [User_input_file]
 for example: python upload_file.py sampletxt.txt
 
-You will expect the sample output like:
+## You will expect the sample output like:
 
-$ python upload_file.py RaspberryPi.txt
+$ python upload_file.py sampletxt.txt
 
 Upload file and scan.
 Current scan progress is:  0 %
