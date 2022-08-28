@@ -1,0 +1,10 @@
+CanaKit Raspberry Pi 4 Basic Kit (8GB RAM)
+https://www.amazon.com/CanaKit-Raspberry-Basic-Kit-8GB/dp/B08DJ9MLHV/ref=sr_1_5?dchild=1&keywords=RASPBERRY%2BPI%2B4B&qid=1615235778&sr=8-5&th=1
+Raspberry Pi RASPBERRYPI-SENSEHAT Sense HAT with Orientation, Pressure, Humidity and Temperature Sensors
+https://www.amazon.com/RASPBERRY-PI-RASPBERRYPI-SENSEHAT-Raspberry-Orientation-Temperature/dp/B014HDG74S/ref=sr_1_66?dchild=1&keywords=RASPBERRY+PI+4B+hat&qid=1615236454&sr=8-66
+Raspberry Pi Camera Module V2-8 Megapixel,1080p 
+https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS/ref=sr_1_42?dchild=1&keywords=RASPBERRY%2BPI%2B4B%2Bhat&qid=1615236345&sr=8-42&th=1
+Smraza Case for Raspberry Pi 4 Model B
+https://www.amazon.com/Smraza-Raspberry-Heatsinks-Supply-Adapter/dp/B07W5VQYG9/ref=pd_di_sccai_9?pd_rd_w=qEy7L&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=9KAAXGF3TACD8CPC90NY&pd_rd_r=c0280b4f-83b8-4688-b18f-54f779d7e7bf&pd_rd_wg=HVdKH&pd_rd_i=B07W5VQYG9&psc=1
+OSOYOO Starter Kit:
+https://www.amazon.com/OSOYOO-Raspberry-Starter-learning-Beginners/dp/B073GQ34H4?ref_=ast_sto_dp&th=1
